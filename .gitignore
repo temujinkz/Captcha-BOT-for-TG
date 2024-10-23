@@ -1,0 +1,10 @@
+**/.vscode/
+**/__pycache__/
+**/.venv/
+**/data/
+**/.idea/
+
+**/*.pyc
+**/*.pkl
+**/*.log
+**/*.ignore
